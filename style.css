@@ -1,0 +1,86 @@
+
+body{
+    background-color:rgb(238,238,228)
+    ;
+}
+
+.Header {
+    
+ 
+    padding-top: 1px;
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+
+#HeaderTitle {
+    color: rgb(21,76,121);
+    font-family: Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#HeaderText {
+    color: rgb(21,76,121);
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 50px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+}
+
+#Typography{
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+
+.Article{ 
+    color: rgb(135,62,35);
+    font-family: Helvetica,serif;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#ArticleTitle {
+    color: rgb(135,62,35);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+
+#ArticleText {
+    margin-top: 50px;
+}
+
+#TableTitle{
+
+    color: rgb(135,62,35);
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Helvetica, sans-serif ;
+    
+}
+
+
+#Fonts,th,td {
+    border: 0.5px solid rgb(135,62,35);
+    color: rgb(135,62,35);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 20px;
+    font-family: Helvetica, sans-serif ;
+
+}
+
+#Fonts{
+    margin-left: 550px;
+}
